@@ -19,7 +19,6 @@ justKiddingBtn.addEventListener("click", function justKiddingDemo() { window.ope
 justKiddingGithubBtn.addEventListener("click", function justKiddingGithub() { window.open("https://github.com/asantidrian/just-kidding") })
 marvelTubeBtn.addEventListener("click", function marvelDemo() { window.open("./assets/videos/MarvelTube.gif") })
 marvelGithubBtn.addEventListener("click", function marvelGitHub() { window.open("https://github.com/asantidrian/MarvelTube") })
-console.log("marvel gitub")
 cityWeatherBtn.addEventListener("click", function cityweatherDemo() { window.open("./assets/videos/CityWeatherDashboard.gif") })
 cityWeatherGithubBtn.addEventListener("click", function cityweatherGithub() { window.open("https://github.com/asantidrian/ACityWeatherDashboard") })
 noteTakerBtn.addEventListener("click", function notetakerDemo() { window.open("https://drive.google.com/file/d/1xGG1SX_RXIdEjI_Kp04uGJaDeEoel652/view") })
@@ -30,8 +29,8 @@ codeQuizBtn.addEventListener("click", function codequizDemo() { window.open("./a
 codeQuizGithubBtn.addEventListener("click", function codequizGithub() { window.open("https://github.com/asantidrian/ACodeQuiz") })
 //buttons to contact links
 githubBtn.addEventListener("click", function githubLink() { window.open("https://github.com/asantidrian") })
-linkedinBtn.addEventListener("click", function linkedin() { window.open("linkedin.com/in/alicia-santidrian-san-martin-610a43115") })
-emailBtn.addEventListener("click,", function emailToSend() { window.location.href = "mailto:asantidrian83@gmail.com" })
+linkedinBtn.addEventListener("click", function linkedin() { window.open("https://www.linkedin.com/in/alicia-santidrian-san-martin-610a43115/") })
+emailBtn.addEventListener("click", function emailToSend() { window.location.href = "mailto:asantidrian83@gmail.com" })
 cvBtn.addEventListener("click", function cvPdf() { window.open("./assets/cv/CV.pdf") })
 
-// 
+// window.location.href = "mailto:mail@example.org"
