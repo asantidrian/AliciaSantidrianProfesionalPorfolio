@@ -14,10 +14,10 @@ At the bottom of the page the contact detail can be found. if the icons are clic
 
 ## Built With
 
-JavaScript
-Html
-CSS
-Bootstrap
+JavaScript  
+Html  
+CSS  
+Bootstrap  
 
 # Website
 
