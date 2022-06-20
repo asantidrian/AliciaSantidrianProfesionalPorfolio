@@ -23,11 +23,11 @@ Bootstrap
 
 The following animations show the web application's appearance and functionality:
 
-![Portfolio Website Homepage](./Assets/img/PortfolioGif.gif)
+![Portfolio Website Homepage](https://drive.google.com/file/d/1yGsKcCTfgi6Azhlvv0iEwXCGJNdixN0u/view)
 
 
 # Contact
-Email: asantidrian83@gmail.com
-Project link: https://github.com/asantidrian/AliciaSantidrianProfesionalPorfolio
+Email: asantidrian83@gmail.com  
+Project link: https://github.com/asantidrian/AliciaSantidrianProfesionalPorfolio  
 Website link:https://asantidrian.github.io/AliciaSantidrianProfesionalPorfolio/
 
