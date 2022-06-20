@@ -19,11 +19,11 @@ Html
 CSS  
 Bootstrap  
 
-# Website
+# Demo
 
 The following animations show the web application's appearance and functionality:
-
-![Portfolio Website Homepage](https://drive.google.com/file/d/1yGsKcCTfgi6Azhlvv0iEwXCGJNdixN0u/view)
+Portfolio Demo Video:  
+(https://drive.google.com/file/d/1yGsKcCTfgi6Azhlvv0iEwXCGJNdixN0u/view)
 
 
 # Contact
